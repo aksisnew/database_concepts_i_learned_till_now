@@ -1,0 +1,3 @@
+UPDATE table_name
+SET column1 = value1
+WHERE condition;
